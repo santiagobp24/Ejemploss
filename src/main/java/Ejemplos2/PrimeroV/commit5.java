@@ -8,7 +8,7 @@ public class commit5 {
 		
 		int carro = 9;
 		System.out.print(carro);
-		System.out.print(carro + carro*4);
+		System.out.print(carro + carro*7);
 		
 		
 	}
