@@ -5,7 +5,7 @@ public class Amigo {
 	{
 		
 		
-		
+		int carro = 9;
 		
 		
 	}
